@@ -1,1 +1,1 @@
-# animal-quiz-demo
+# animal-quiz-demo-free
